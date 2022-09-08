@@ -1,3 +1,3 @@
 # Clan
-Project - Apk__
-Code in Clan Folder
+#Project - Apk
+#Code in Clan Folder
